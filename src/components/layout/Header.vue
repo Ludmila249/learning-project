@@ -18,7 +18,7 @@
 
         <router-link 
           class="header__logo" 
-          to="/home"
+          to="/"
         >
           <img class="header__logo-picture" src="@/assets/pictures/Logo.png">
         </router-link>
